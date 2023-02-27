@@ -1,3 +1,8 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
 main{
     background-color: rgb(231, 221, 153);
     text-align: center;
@@ -125,9 +130,4 @@ border: solid 3px black;
 }
 img{
     border: solid 5px black;
-}
-
-body{
-    margin: 0%;
-    padding: 0%;
 }
