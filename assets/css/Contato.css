@@ -1,0 +1,54 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+
+input{
+    color: black;
+    background-color: whitesmoke;
+}
+
+#submit{
+    width:30%;
+    
+
+}
+
+#submit:hover {
+    color: red;
+}
+
+
+
+p{
+    text-align: center;
+}
+
+#E-mail{
+    border-radius: 5px;
+    border-color: orangered;
+
+}
+
+#nome{
+    border-radius: 5px;
+    border-color: orangered;
+}
+
+#mensagem{
+    margin: 5px;
+
+}
+
+body{
+    background-color: gold;
+    width: 100%;
+    margin: 0%;
+    padding: 0;
+}
+
+textarea{
+    resize:none;
+}
