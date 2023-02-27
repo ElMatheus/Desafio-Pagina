@@ -48,3 +48,8 @@ a {
     text-decoration: none;
     color: black;
 }
+
+img{
+    border: solid black 5px;
+    border-radius: 5px;
+}
