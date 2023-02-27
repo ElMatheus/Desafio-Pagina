@@ -1,3 +1,8 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
 main{
     background-color: rgb(231, 221, 153);
     text-align: center;
@@ -11,6 +16,7 @@ margin: auto;
 width: 90%;
 border-radius: 5px;
 display: flex;
+border: solid 5px rgb(139, 13, 13);
 }
 #b1{
     width: 30%;
@@ -20,6 +26,7 @@ display: flex;
     box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
+border: solid 3px black;
 
     
 }
@@ -32,6 +39,7 @@ display: flex;
     box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
+border: solid 3px black;
     
 }
 #a1{
@@ -46,6 +54,7 @@ display: flex;
     box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
+border: solid 3px black;
 }
 
 #a2{
@@ -61,6 +70,7 @@ display: flex;
     box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
+border: solid 3px black;
     
 }
 #b5{
@@ -71,6 +81,7 @@ display: flex;
     box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
+border: solid 3px black;
 }
 #b6{
     width: 30%;
@@ -80,6 +91,7 @@ display: flex;
     box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
+border: solid 3px black;
 }
 #a3 {
     display: flex;
@@ -94,6 +106,7 @@ display: flex;
     box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
+border: solid 3px black;
 }
 #b8{
     width: 30%;
@@ -103,6 +116,7 @@ display: flex;
     box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
+border: solid 3px black;
 }
 #b9{
     width: 30%;
@@ -112,12 +126,8 @@ display: flex;
     box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
+border: solid 3px black;
 }
 img{
     border: solid 5px black;
-}
-
-body{
-    margin: 0%;
-    padding: 0%;
 }
