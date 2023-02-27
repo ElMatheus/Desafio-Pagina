@@ -1,11 +1,16 @@
-#imagem{
-    width: 110px;
-    height: 110px;
-    position: relative;  
+img {
+    width: 100px;
+    height: 100px;
+   
+}
+img:hover{
+    animation: spin 2s linear infinite;
 
 }
-#imagem:hover{
-     transform: rotate(180deg);
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
 }
 
 p{
