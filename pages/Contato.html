@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="../assets/css/Contato.css" />
+    <title>Contato</title>
+  </head>
+  <body>
+    <iframe src="../layouts/header.css" scrolling="no" frameborder="0"></iframe>
+    <form action="../pages/Success.html" target="_parent">
+      <label for="">Nome</label>
+      <input id="nome" type="text" placeholder="Digite seu nome" />
+      <label for="">E-mail</label>
+      <input
+        id="E-mail"
+        type="email"
+        placeholder="Digite seu E-mail"
+        pattern=".+@globex\.com"
+        size="30"
+        required
+      />
+
+      <label for=""></label>
+      <label for="pass">Mensagem (280 caracteres no máximo):</label>
+
+      <textarea
+        name="Mensagem"
+        id="mensagem"
+        cols="30"
+        rows="1"
+        maxlength="280"
+      ></textarea>
+
+      <p><input id="submit" type="submit" /></p>
+    </form>
+    <iframe
+      src="../layouts/footer.html"
+      scrolling="no"
+      frameborder="0"
+    ></iframe>
+  </body>
+</html>
