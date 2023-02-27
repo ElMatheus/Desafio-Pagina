@@ -116,3 +116,8 @@ display: flex;
 img{
     border: solid 5px black;
 }
+
+body{
+    margin: 0%;
+    padding: 0%;
+}
