@@ -24,3 +24,7 @@ footer iframe {
     position: fixed;
     bottom: 0px;
 }
+
+#gif{
+    border: solid 2px black;
+}
