@@ -17,6 +17,11 @@ footer{
     text-align: center; 
 }
 
+footer p {
+    color: black;
+    font-weight: bold;
+}
+
 
 
 
