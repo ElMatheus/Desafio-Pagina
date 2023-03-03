@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: orangered
+    background-color: orange
 }
 
 footer{
@@ -15,6 +15,12 @@ footer{
     width: 100%;
     background-color: rgba(234, 149, 1, 0.966);
     text-align: center; 
+    margin-top: 2px;
+}
+
+footer p {
+    color: black;
+    font-weight: bold;
 }
 
 
