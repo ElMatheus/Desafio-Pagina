@@ -20,10 +20,11 @@ a{
 body{
     margin: 0px;
     padding: 0;
+    background-color: wheat;
 }
 
 footer iframe {
-    position: relative;
+    position: fixed;
     bottom: 0px;
 }
 
