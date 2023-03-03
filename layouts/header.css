@@ -18,7 +18,7 @@ p{
 }
 
 header{
-    background-color: rgb(235, 174, 61);
+    background-color:  rgba(234, 149, 1, 0.966);
     color: black;
     margin-top: 10px;
     padding:0;
@@ -53,5 +53,5 @@ a:hover{
 }
 
 body{
-    background-color: rgb(235, 174, 61);
+    background-color:  rgba(234, 149, 1, 0.966);
 }
