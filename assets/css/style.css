@@ -136,4 +136,19 @@ h2{
  margin-left: 70px;
  margin-bottom: 20px;
  margin-top: 20px;
+ background-color: white;
+
 }
+#d1{
+    width: 15%;
+    border-radius: 5px;
+
+}
+ #d2{
+    width: 8%;
+    border-radius: 5px;
+ }
+ #d3{
+    width: 13%;
+    border-radius: 5px;
+ }
