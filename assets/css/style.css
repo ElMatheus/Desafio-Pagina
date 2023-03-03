@@ -6,7 +6,7 @@
 main{
     background-color: rgb(231, 221, 153);
     text-align: center;
-    height: 1800px;
+    height: 1850px;
     border-radius: 5px;
 }
 #c1{
@@ -27,6 +27,7 @@ border: solid 5px rgb(139, 13, 13);
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 border: solid 3px black;
+height: 380px;
 
     
 }
@@ -40,6 +41,7 @@ border: solid 3px black;
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 border: solid 3px black;
+height: 380px;
     
 }
 #a1{
@@ -55,6 +57,7 @@ border: solid 3px black;
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 border: solid 3px black;
+height: 380px;
 }
 
 #a2{
@@ -71,6 +74,7 @@ border: solid 3px black;
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 border: solid 3px black;
+height: 380px;
     
 }
 #b5{
@@ -82,6 +86,7 @@ border: solid 3px black;
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 border: solid 3px black;
+height: 380px;
 }
 #b6{
     width: 30%;
@@ -92,6 +97,7 @@ border: solid 3px black;
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 border: solid 3px black;
+height: 380px;
 }
 #a3 {
     display: flex;
@@ -107,6 +113,7 @@ border: solid 3px black;
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 border: solid 3px black;
+height: 380px;
 }
 #b8{
     width: 30%;
@@ -117,6 +124,7 @@ border: solid 3px black;
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 border: solid 3px black;
+height: 380px;
 }
 #b9{
     width: 30%;
@@ -127,6 +135,7 @@ border: solid 3px black;
 -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 border: solid 3px black;
+height: 380px;
 }
 img{
     border: solid 5px black;
@@ -152,3 +161,4 @@ h2{
     width: 13%;
     border-radius: 5px;
  }
+ 
