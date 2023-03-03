@@ -3,8 +3,8 @@ img {
     height: 100px;
    
 }
-img:hover{
-    animation: spin 2s linear infinite;
+img{
+    animation: spin 2s;
 
 }
 
