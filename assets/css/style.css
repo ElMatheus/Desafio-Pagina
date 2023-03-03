@@ -32,7 +32,7 @@ footer{
     width: 95%;
     border-radius: 5px;
     padding: 10px;
-    border-top: solid 7px black;
+    border-top: solid 5px black;
     box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
     -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
     -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
@@ -64,7 +64,7 @@ section:hover{
     -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
     -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
     height: 380px;
-    border-top: solid 7px black;
+    border-top: solid 5px black;
 
 }
 
