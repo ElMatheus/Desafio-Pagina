@@ -51,6 +51,9 @@ footer{
 #p1 {
     margin-top: 60px;
 }
+section:hover{
+    transform: scale(1.1);
+}
 
 #b1 {
     width: 30%;
