@@ -3,162 +3,189 @@
     margin: 0px;
 }
 
-main{
+main {
     background-color: rgb(231, 221, 153);
     text-align: center;
     height: 1850px;
     border-radius: 5px;
 }
-#c1{
 
-background-color: rgb(244, 244, 244);
-margin: auto;
-width: 90%;
-border-radius: 5px;
-display: flex;
-border: solid 5px rgb(139, 13, 13);
+#c1 {
+
+    background-color: rgb(244, 244, 244);
+    margin: auto;
+    width: 97%;
+    border-radius: 5px;
+    padding: 10px;
+    border-left: solid 5px black;
+
 }
-#b1{
+
+.container {
+    display: flex;
+}
+
+#imagem1 {
+    margin-top: 60px;
+}
+
+#p1 {
+    margin-top: 60px;
+}
+
+#b1 {
     width: 30%;
     margin: auto;
     background-color: white;
     border-radius: 5px;
-    box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
-border: solid 3px black;
-height: 380px;
+    box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    height: 380px;
+    border-left: solid 5px black;
 
-    
 }
+
 #b2 {
     width: 30%;
     margin: auto;
     background-color: white;
     margin: auto;
     border-radius: 5px;
-    box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
-border: solid 3px black;
-height: 380px;
-    
-}
-#a1{
-    display: flex;
-    padding-top: 30px;
-}
-#b3{
-    margin: auto;
-    background-color: white;
-    width: 30%;
-    border-radius: 5px;
-    box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
-border: solid 3px black;
-height: 380px;
+    box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    border-left: solid 5px black;
+    height: 380px;
+
 }
 
-#a2{
+#a1 {
+    display: flex;
+    padding-top: 30px;
+}
+
+#b3 {
+    margin: auto;
+    background-color: white;
+    width: 30%;
+    border-radius: 5px;
+    box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    height: 380px;
+    border-left: solid 5px black;
+}
+
+#a2 {
     display: flex;
     padding-top: 30px;
     margin: auto;
 }
-#b4{
+
+#b4 {
     width: 30%;
     background-color: white;
     margin: auto;
     border-radius: 5px;
-    box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
-border: solid 3px black;
-height: 380px;
-    
+    box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    border-left: solid 5px black;
+    height: 380px;
+
 }
-#b5{
+
+#b5 {
     width: 30%;
     background-color: white;
     margin: auto;
     border-radius: 5px;
-    box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
-border: solid 3px black;
-height: 380px;
+    box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    border-left: solid 5px black;
+    height: 380px;
 }
-#b6{
+
+#b6 {
     width: 30%;
     background-color: white;
     margin: auto;
     border-radius: 5px;
-    box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
-border: solid 3px black;
-height: 380px;
+    box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    border-left: solid 5px black;
+    height: 380px;
 }
+
 #a3 {
     display: flex;
     padding-top: 30px;
 
 }
-#b7{
+
+#b7 {
     width: 30%;
     background-color: white;
     margin: auto;
     border-radius: 5px;
-    box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
-border: solid 3px black;
-height: 380px;
+    box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    border-left: solid 5px black;
+    height: 380px;
 }
-#b8{
+
+#b8 {
     width: 30%;
     background-color: white;
     margin: auto;
     border-radius: 5px;
-    box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
-border: solid 3px black;
-height: 380px;
+    box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    height: 380px;
+    border-left: solid 5px black;
 }
-#b9{
+
+#b9 {
     width: 30%;
     background-color: white;
     margin: auto;
     border-radius: 5px;
-    box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
-border: solid 3px black;
-height: 380px;
+    box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+
+    height: 380px;
+    border-left: solid 5px black;
 }
-img{
-    border: solid 5px black;
-}
-h2{
-    text-align: left;   
- margin-left: 70px;
- margin-bottom: 20px;
- margin-top: 20px;
- background-color: white;
+
+
+
+#d1 {
+    text-align: justify;
+    display: block;
+
 
 }
-#d1{
-    width: 15%;
-    border-radius: 5px;
 
-}
- #d2{
+#d2 {
     width: 8%;
     border-radius: 5px;
- }
- #d3{
+    margin-left: 70px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: white;
+}
+
+#d3 {
     width: 13%;
     border-radius: 5px;
- }
- 
+    margin-left: 70px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: white;
+}

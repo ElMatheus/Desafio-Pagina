@@ -1,18 +1,33 @@
-form{
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+form {
     display: flex;
     flex-direction: column;
-    width: 50%;
     margin: auto;
 }
 
-input{
+input {
     color: black;
     background-color: whitesmoke;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid red;
+    display: block;
 }
 
-#submit{
-    width:30%;
-    
+input, textarea {
+    width: 100%;
+}
+
+#submit {
+    width: 30%;
+    margin: 10px auto;
+
 
 }
 
@@ -22,38 +37,42 @@ input{
 
 
 
-p{
+p {
     text-align: center;
 }
 
-#E-mail{
-    border-radius: 5px;
-    border-color: orangered;
-
+label {
+    margin: 5px 0px;
 }
 
-#nome{
-    border-radius: 5px;
-    border-color: orangered;
-}
-
-#mensagem{
-    margin: 5px;
-
-}
-
-body{
+body {
     background-color: gold;
-    width: 100%;
-    margin: 0%;
+    margin: 0;
     padding: 0;
 }
 
-textarea{
-    resize:none;
+textarea {
+    resize: none;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: orangered;
+    border: 1px solid red;
 }
 
 footer iframe {
-    position: fixed;
     bottom: 0px;
+    margin-bottom: -5px;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding: 5px;
+    text-align: center;
+}
+
+div {
+    width: 60%;
+    margin: auto;
+
 }
