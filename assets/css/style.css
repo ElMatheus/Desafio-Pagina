@@ -138,7 +138,7 @@ section:hover{
     box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
     -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
     -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
-    border-top: solid 7px black;
+    border-top: solid 5px black;
     height: 380px;
 }
 
@@ -156,7 +156,7 @@ section:hover{
     box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
     -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
     -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
-    border-top: solid 7px black;
+    border-top: solid 5px black;
     height: 380px;
 }
 
@@ -169,7 +169,7 @@ section:hover{
     -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
     -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
     height: 380px;
-    border-top: solid 7px black;
+    border-top: solid 5px black;
 }
 
 #b9 {
@@ -182,7 +182,7 @@ section:hover{
     -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
 
     height: 380px;
-    border-top: solid 7px black;
+    border-top: solid 5px black;
 }
 
 
