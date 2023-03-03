@@ -5,16 +5,18 @@
 }
 
 body {
-    background-color: rgb(250, 133, 15);
+    background-color: orangered
 }
 
 footer{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: fixed;
     bottom: 0px;
     width: 100%;
     background-color: goldenrod;
     text-align: center; 
 }
+
 
 
 
