@@ -13,7 +13,7 @@ footer{
     position: fixed;
     bottom: 0px;
     width: 100%;
-    background-color: goldenrod;
+    background-color: rgba(234, 149, 1, 0.966);
     text-align: center; 
 }
 
