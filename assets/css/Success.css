@@ -24,7 +24,7 @@ body{
 }
 
 footer iframe {
-    position: relative;
+    position: fixed;
     bottom: 0px;
 }
 
