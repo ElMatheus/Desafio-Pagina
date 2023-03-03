@@ -19,7 +19,7 @@ main {
     -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
     -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
     border-radius: 5px;
-    border-left: solid 7px black;
+    border-left: solid 6px black;
 }
 footer{
     margin-top: 10px;
